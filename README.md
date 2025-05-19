@@ -1,9 +1,9 @@
 # Task 1: JOINS PRACTICE
-Company: CODTECH IT SOLUTIONS
-Name   : T V Sai Kushal
-Intern ID : CT04DL1133
-Domain : SQL
-Duration : 4 WEEKS
+Company: CODTECH IT SOLUTIONS\
+Name   : T V Sai Kushal\
+Intern ID : CT04DL1133\
+Domain : SQL\
+Duration : 4 WEEKS\
 Mentor : Neela Santhosh
 
 ## Task Description
