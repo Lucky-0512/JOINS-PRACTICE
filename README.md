@@ -8,7 +8,7 @@ Mentor : Neela Santhosh
 
 ## Task Description
 Perform INNER, LEFT, RIGHT, and FULL OUTER joins on two simple tables—`students` and `scores`—to demonstrate how different JOIN types combine data.\
-i used online mySQL editor aka oncecomipler.com to run my queries.
+i used online mySQL editor aka "www.onlinecompiler.com" to run my queries.
 
 ## Steps and Files
 1. queries.sql
